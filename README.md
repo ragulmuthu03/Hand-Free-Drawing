@@ -23,8 +23,7 @@ This project is an Android application that allows users to create freehand draw
 
 ## Screenshots  
 <!-- Add your screenshots here -->
-![App Demo](path_to_screenshot1.png)  
-![Color Palette](path_to_screenshot2.png)  
+![App Demo](Output.jpg)  
 
 ## Installation  
 1. **Clone the Repository**  
